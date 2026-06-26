@@ -4,7 +4,7 @@
 // @version      1.3
 // @description  High-contrast dark mode for my.adp.com — nuclear approach.
 //               Color palette: AWS Cloudscape "Polaris Dark Mode" tokens v3.3.
-//               Source: https://optics.amazon.dev/ (awsui-polaris-dark-mode)
+//               Source: AWS Cloudscape/Polaris dark mode (awsui-polaris-dark-mode)
 // @author       BarnsAWS
 // @match        https://my.adp.com/*
 // @match        https://*.adp.com/*
